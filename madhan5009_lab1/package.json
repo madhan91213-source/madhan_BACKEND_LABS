@@ -1,0 +1,28 @@
+{
+  "name": "madhan5009-lab1",
+  "version": "1.0.0",
+  "description": "Lab 1: Node.js and Express Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madhan91213-source/madhan_BACKEND_LABS.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "rest-api",
+    "lab1"
+  ],
+  "author": "A.Madhan Mohan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

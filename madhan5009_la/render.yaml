@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: madhan5009-lab3
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
